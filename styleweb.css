@@ -1,0 +1,24 @@
+body 
+{
+    background-color: rgb(149, 181, 24);
+}
+
+.navbar
+{
+    background-color: bisque;
+}
+
+.content1
+{
+    background-color: azure;
+}
+
+.ul-navbar
+{
+    background-color: aqua;
+}
+
+.li-navbar
+{
+    background-color: brown;
+}
